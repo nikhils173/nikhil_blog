@@ -1,0 +1,16 @@
+#basic-navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+
+}
+
+.mr-auto.navbar-nav a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #565673;
+}
+.mr-auto.navbar-nav a:hover{
+    color: #5f9ea0;
+}

@@ -1,0 +1,9 @@
+.logo{
+    text-align: center;
+}
+.logo a{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    text-decoration: none;
+    color: #ffd700;
+}
